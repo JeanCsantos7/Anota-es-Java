@@ -5,10 +5,10 @@ Pontos de destaque até o momento:
 `javadoc` - o java doc é um tipo de comentário dentro do java que serve para documentar algum método, linha, classe, etc.
 
 `Atalhos` -  
-`psvm`: esse atalho serve pra auto preencher o comando public static void main(String[] args)
-`Ctrl Shift F10`: esse atalho serve para executar o código.
-`Ctrl Alt L`: esse atalho serve para identar o código
-`Ctrl SHIFT /`: esse atalho serve para comentar um bloco de código ou descomentar.
+- `psvm`: esse atalho serve pra auto preencher o comando public static void main(String[] args)
+- `Ctrl Shift F10`: esse atalho serve para executar o código.
+- `Ctrl Alt L`: esse atalho serve para identar o código
+- `Ctrl SHIFT /`: esse atalho serve para comentar um bloco de código ou descomentar.
 
 
 
