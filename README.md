@@ -33,5 +33,28 @@ int contadorA = 0;
 int i = ++contadorA;
 System.out.println(i); --->  1
 
+`Arrays` - Dentro do java percebi algumas mudanças consideráveis na forma de manipular array comparado ao js desde a forma de inicialização e declaração de um vetor, a forma de iniciar um array é a seguinte:
+
+jeito 1 - int[] idades ={12,21,32,56};
+
+jeito 2 - 
+int idades[];
+idades = new int[] {12,21,32,56};
+
+jeito 3 - 
+int idades[4];
+idades[0] = 12;
+idades[1] = 21;
+idades[2] = 32;
+idades[3] = 56;
+
+
+
+
+
+
+
+
+
 
 
