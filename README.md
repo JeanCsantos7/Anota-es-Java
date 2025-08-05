@@ -9,6 +9,7 @@ Pontos de destaque até o momento:
 - `Ctrl Shift F10`: esse atalho serve para executar o código.
 - `Ctrl Alt L`: esse atalho serve para identar o código
 - `Ctrl SHIFT /`: esse atalho serve para comentar um bloco de código ou descomentar.
+- sout - digitando esse atalho ele já me fornece o System.out.println().
 
 
 
@@ -47,6 +48,16 @@ idades[0] = 12;
 idades[1] = 21;
 idades[2] = 32;
 idades[3] = 56;
+
+for Each - a sintaxe do for each dentro do java também é diferente, seria da seguinte maneira:
+
+for(tipo = valor: nomeDoArray)
+{
+ //Logíca //
+
+}
+
+
 
 
 
