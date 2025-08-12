@@ -10,6 +10,7 @@ Pontos de destaque até o momento:
 - `Ctrl Alt L`: esse atalho serve para identar o código
 - `Ctrl SHIFT /`: esse atalho serve para comentar um bloco de código ou descomentar.
 - sout - digitando esse atalho ele já me fornece o System.out.println().
+-  Alt + insert - esse atalho serve pra criar os getters e setter dos atributos ou metódos.
 
 
 
